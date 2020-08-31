@@ -1,0 +1,5 @@
+<?php
+// operadores aritméticos
+
+
+?>
