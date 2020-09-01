@@ -21,5 +21,10 @@ echo "Adulto";
 
     echo "Idoso";
 }
+echo"<br>";
+
+echo ($qualSuaIdade < $idadeMaior)?"Menor de idade":"Maior de idade";
+// condição simples; ? significa "então", : "senão"
+
 
 ?>
