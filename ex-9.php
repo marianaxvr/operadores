@@ -23,7 +23,7 @@ var_dump ($a != $b);
 echo "<br>";
 
 var_dump($a !== $b);
-// <= ou menor >== não muda, mesma álgebra booleana que C
+// <= ou >= não muda, mesma álgebra booleana que C
 
 
 ?>
