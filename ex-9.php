@@ -11,7 +11,10 @@ var_dump($a < $B); //retorna verdadeiro
 
 echo "<br>";
 
-var_dump($a = $b);
+// var_dump($a = $b);
 // não compara, atribui valor; operador de atribição
+// comparação:
+
+var_dump($a == $b); //bem parecido com C e C++
 
 ?>
