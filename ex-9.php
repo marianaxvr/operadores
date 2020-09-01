@@ -17,5 +17,13 @@ echo "<br>";
 
 var_dump($a === $b); //bem parecido com C e C++
 /// === tipo e valor
+echo "<br>";
+
+var_dump ($a != $b);
+echo "<br>";
+
+var_dump($a !== $b);
+// <= ou menor >== não muda, mesma álgebra booleana que C
+
 
 ?>
