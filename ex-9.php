@@ -6,7 +6,7 @@ var_dump($a > $b); //retorna falso
 
 echo "<br>";
 
-var_dump($a < $B); //retorna verdadeiro
+var_dump($a < $b); //retorna verdadeiro
 //pode colocar o igual junto
 
 echo "<br>";
