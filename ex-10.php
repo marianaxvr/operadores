@@ -1,8 +1,8 @@
 <?php
 // PHP7 - spaceship
 
-$a = 50;
-$b = 35;
+$a = 35;
+$b = 60;
 var_dump($a <=> $b);
 
 
