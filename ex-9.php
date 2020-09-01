@@ -1,5 +1,5 @@
 <?php
-$a = 30;
+$a = 55;
 $b = 55;
 
 var_dump($a > $b); //retorna falso
