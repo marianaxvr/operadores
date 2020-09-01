@@ -16,5 +16,6 @@ echo "<br>";
 // comparação:
 
 var_dump($a === $b); //bem parecido com C e C++
+/// === tipo e valor
 
 ?>
