@@ -1,5 +1,5 @@
 <?php
-$a = 55;
+$a = 55.0;
 $b = 55;
 
 var_dump($a > $b); //retorna falso
@@ -15,6 +15,6 @@ echo "<br>";
 // não compara, atribui valor; operador de atribição
 // comparação:
 
-var_dump($a == $b); //bem parecido com C e C++
+var_dump($a === $b); //bem parecido com C e C++
 
 ?>
