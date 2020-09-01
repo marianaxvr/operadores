@@ -9,4 +9,9 @@ echo "<br>";
 var_dump($a < $B); //retorna verdadeiro
 //pode colocar o igual junto
 
+echo "<br>";
+
+var_dump($a = $b);
+// não compara, atribui valor; operador de atribição
+
 ?>
