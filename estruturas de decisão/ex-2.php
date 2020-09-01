@@ -1,6 +1,6 @@
 <?php
 //switch case
-$diaDaSemana = date("w");
+$diaDaSemana = 8; //$diaDaSemana = date("w");
 // echo $diaDaSemana; -> vai me retornar o valor do dia da semana, abaixo o que o usuário final verá
 
 switch ($diaDaSemana) {
@@ -29,6 +29,9 @@ switch ($diaDaSemana) {
     break;
 
     default:
+    echo "Data inválida";
+    break;
+
 }
 // hoje é terça, ele me retornou terça-feira
 
