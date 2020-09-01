@@ -27,6 +27,8 @@ switch ($diaDaSemana) {
     case 6:
         echo "Sábado";
     break;
+
+    default:
 }
 // hoje é terça, ele me retornou terça-feira
 
