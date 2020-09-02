@@ -7,6 +7,7 @@ $meses = array(
     "Outubro", "Novembro", "Dezembro"
 );
 foreach ($meses as $index => $mes){
+    // array sempre começa em 0
     echo "Índice: ".$index."<br>";
 echo "O mês é: ".$mes"<br><br>";
 
