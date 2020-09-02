@@ -7,7 +7,7 @@ $meses = array(
     "Outubro", "Novembro", "Dezembro"
 );
 foreach ($meses as $mes){
-echo "O mês é: ".$mes;
+echo "O mês é: ".$mes"<br>";
 
 }
 
