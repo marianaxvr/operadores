@@ -2,13 +2,12 @@
 // for - loop infinito
     for ($i = 0; $i < 1000; $i += 5) {
 
-    if ($ > 200 && $i < 800) continue;
+    if ($ > 200 && $i < 800) continue; //ou<= ou >=
+    if ($i === 900) break;
     echo $i . "<br>";
 
 
 }
-
-
 
 
 ?>
